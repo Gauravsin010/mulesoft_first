@@ -19,5 +19,9 @@
   "main": "american-flights-api.raml",
   "assetId": "american-flights-api",
   "groupId": "2c51d850-1284-4073-a229-f5d50f91efab",
-  "name": "American Flights Api"
+  "name": "American Flights Api",
+  "organizationId": "2c51d850-1284-4073-a229-f5d50f91efab",
+  "apiVersion": "v1",
+  "tags": [],
+  "originalFormatVersion": "1.0"
 }
